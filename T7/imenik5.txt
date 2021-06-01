@@ -1,0 +1,10 @@
+IME,PREZIME,ADRESA,BROJ TELEFONA
+ime,prezime,adresa,broj_telefona
+medina,kapo,dobrinjske bolnice 7,062941555
+medina,kapo,dobrinjske bolnice 7,062941555
+medina,kapo,dobrinjske bolnice 7,062941555
+sanela,kapo,dobrinjske bolnice 7,061890000
+ime,prezime,adresa,broj_telefona
+ime,prezime,adresa,broj_telefona
+ime,prezime,adresa,broj_telefona
+kenan,prezime,adresa,broj_telefona

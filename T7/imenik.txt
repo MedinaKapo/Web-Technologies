@@ -1,0 +1,10 @@
+medin,kapo,dbr7,062941555
+ime,prezime,adresa,broj_telefona
+ime,prezime,adresa,broj_telefona
+medina,prezime,adresa,broj_telefona
+medina2,prezime,adresa,broj_telefona
+medina2,prezime,adresa,broj_telefona
+primjer1,prezime,adresa,broj_telefona
+primjer2,prezime,adresa,broj_telefona
+ime2,prezime,adresa,broj_telefona
+ime3,prezime,adresa,broj_telefona

@@ -1,0 +1,19 @@
+{
+  "name": "wtv202018076",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "zadatak1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MedinaKapo@bitbucket.org/MedinaKapo/wtv202018076.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/MedinaKapo/wtv202018076#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

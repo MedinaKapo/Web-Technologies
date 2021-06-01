@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+body{
+    background-color:#a7a09a;
+}
+#okvir{
+    background-color: #99c;
+    width: 750px;
+    max-width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    float: initial;
+}
+h1{
+    font-size:42 pt;
+    color:green; 
+    font-family: Gabriela;
+   
+}
+#zaglavlje{
+     background-color: #ddd;
+     padding: 5px;
+     float: top;
+}
+#meni{
+    background-color: #c99;
+    padding: 5px;
+}
+#meni ul
+{list-style-type:none; margin:0; padding:0px}
+#meni li
+{display:inline;}
+#desno{
+    position: relative;
+    width:30%;
+    float:right;
+    padding-top: 0px;
+    background-color: #c9c;
+}
+#glavni{
+    padding-top: 5px;
+    background-color: #9c9;
+    width: 70%;
+    float: left;
+}
+#podnozje{
+    clear: both;
+    padding: 0px;
+    background-color: #cc9;
+}
